@@ -70,7 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
-> Max Verstappen's tyre strategy differed the most from the winner, Oscar Piastri's. Piastri started on medium tyres and switched to hard tyres for the rest of the race, while Verstappen started on soft tyres, changed to medium tyres, and finished on soft tyres again. The chart shows that Verstappen used three tyre stints with two different compounds, while Piastri mainly relied on medium and hard tyres.
+> I analyzed the Dutch Grand Prix 2025 visualization and Max Verstappen's tyre strategy differed the most from the winner, Oscar Piastri's. Piastri started on medium tyres and switched to hard tyres for the rest of the race, while Verstappen started on soft tyres, changed to medium tyres, and finished on soft tyres again. The chart shows that Verstappen used three tyre stints with two different compounds, while Piastri mainly relied on medium and hard tyres.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
