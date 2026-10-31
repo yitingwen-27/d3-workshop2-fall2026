@@ -74,11 +74,11 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> In the Japanese Grand Prix 2025, the race trace shows that Verstappen controlled the race from the front, with Norris staying within about 1–2 s and Piastri within about 3–4 s all race, a tight fight we can’t see in raw lap times. It also makes pit strategy readable: the jump around lap 22 is Verstappen’s own stop, while Antonelli and Hamilton ran long until laps 31–32, looked up to 10 s “ahead,” then rejoined over 20 s behind. A lap-time chart would show each stop only as an isolated spike, hiding how the gaps add up and whether each strategy actually gained or lost time.
 
 **Bonus** (optional): which race did you add, and why?
 
->
+> I added the Monaco Grand Prix 2025 because it had a special rule that year: every driver had to make at least two pit stops, so the tyre chart shows three stints for everyone, and the race trace shows how teams used those stops to gain or protect track position on a circuit where overtaking is almost impossible. I also picked it because I love watching F1, Charles Leclerc is my favorite driver, and Monaco is his home race, where he finished second behind Norris that year.
 
 ---
 
